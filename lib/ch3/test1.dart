@@ -6,13 +6,10 @@ void _sayHello2() {}
 
 class User1 {
   String? name;
-  String _address='seoul';
-
+  String _address = 'seoul';
 }
 
-class _User2 {
-
-}
+class _User2 {}
 
 main() {
   no1 = 20;
